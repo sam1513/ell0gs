@@ -20,7 +20,9 @@ The process will be automated
 Для того, чтобы использовать данную утилиту, нужно ввести следующие команды:
 
 git clone https://github.com/sam1513/ell0gs
+
 cd ell0gs
+
 sudo python3 ell0gs.py
 
 Данный процесс использования автоматизирован
